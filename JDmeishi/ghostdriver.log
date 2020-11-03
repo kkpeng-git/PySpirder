@@ -1,0 +1,29 @@
+[INFO  - 2020-03-07T16:46:10.874Z] GhostDriver - Main - running on port 54169
+[INFO  - 2020-03-07T16:46:15.376Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-03-07T16:46:15.376Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - page.customHeaders:  - {}
+[INFO  - 2020-03-07T16:46:15.376Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-03-07T16:46:15.376Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2910b040-6093-11ea-b75e-1b24455cf7fc
+[ERROR - 2020-03-07T16:46:18.643Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - page.onError - msg: Unhandled promise rejection Error: Loading chunk 3 failed.
+(error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/core1.chunk.js)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-07T16:46:18.643Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - page.onError - stack:
+  (anonymous function) (https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-07T16:46:19.144Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - page.onError - msg: Unhandled promise rejection Error: Loading chunk 10 failed.
+(error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/nice_goods.chunk.js)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-07T16:46:19.144Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - page.onError - stack:
+  (anonymous function) (https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-07T16:46:19.144Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - page.onError - msg: Unhandled promise rejection Error: Loading chunk 4 failed.
+(error: https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/core2.chunk.js)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-03-07T16:46:19.144Z] Session [2910b040-6093-11ea-b75e-1b24455cf7fc] - page.onError - stack:
+  (anonymous function) (https://misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js:1)
+
+  phantomjs://platform/console++.js:263 in error
